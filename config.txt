@@ -1,6 +1,6 @@
 token=NTIzMjEwOTE0NTI3MzEzOTYy.DvWNtA.PH8Ik6QEljCncO4uyNq_YU-70WM
 owner=403261502556995584 
-prefix=I
+prefix=l
 game=PureServer
 stayinchannel=true
 songinstatus=false
